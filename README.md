@@ -22,6 +22,7 @@ This is the project for the 2025 spring C++ course in SDU
   6. 文件操作
      - 添加记录时自动将记录存在相应的文件当中（如记账信息存到finance.txt中，课程提醒存到reminder.txt中，密码存在password.txt中）
      - 当启动系统时，自动加载所有文件中的记录
+  PS:  我传了一个我写的系统和测试文件，不一定是最完美的，仅供大家理解以上功能。
     
 二、技术要求
   1. 层次1
